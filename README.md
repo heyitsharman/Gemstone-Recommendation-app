@@ -1,12 +1,12 @@
-# 💎 Gemstone Recommendation System
+#  Gemstone Recommendation System
 
 A modern and interactive gemstone recommendation web application built using **React.js**. The system helps users discover suitable gemstones based on their **Date of Birth (DOB)** and **Zodiac Sign**, providing personalized recommendations through a clean, responsive, and user-friendly interface.
 
 ---
 
-## 🌟 Features
+##  Features
 
-### 🔮 Personalized Gemstone Recommendations
+### Personalized Gemstone Recommendations
 
 * Recommend gemstones based on:
 
@@ -20,7 +20,7 @@ A modern and interactive gemstone recommendation web application built using **R
   * Description
   * Images
 
-### 🎯 Advanced Filtering System
+### Advanced Filtering System
 
 * Filter gemstones by:
 
@@ -29,7 +29,7 @@ A modern and interactive gemstone recommendation web application built using **R
   * Gemstone Category
 * Instant filtering with smooth user experience.
 
-### 🎨 Modern UI/UX
+###  Modern UI/UX
 
 * Fully responsive design.
 * Attractive gemstone cards.
@@ -43,7 +43,7 @@ A modern and interactive gemstone recommendation web application built using **R
 * Comprehensive information and recommendations.
 * Easy navigation between pages.
 
-### ⚡ React-Based Frontend
+### React-Based Frontend
 
 * Built completely using React.
 * Component-based architecture.
@@ -70,7 +70,7 @@ A modern and interactive gemstone recommendation web application built using **R
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 src/
@@ -100,7 +100,7 @@ src/
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 ### Step 1: User Input
 
@@ -123,7 +123,7 @@ The user receives:
 
 ---
 
-## 📸 User Flow
+##  User Flow
 
 1. Open Home Page.
 2. Enter Date of Birth.
@@ -135,23 +135,23 @@ The user receives:
 
 ---
 
-## 💡 Key Highlights
+## Key Highlights
 
-✅ Personalized recommendations
+ Personalized recommendations
 
-✅ Beautiful and responsive interface
+ Beautiful and responsive interface
 
-✅ Fast filtering functionality
+ Fast filtering functionality
 
-✅ Dynamic routing with React Router
+ Dynamic routing with React Router
 
-✅ Easy-to-maintain component structure
+ Easy-to-maintain component structure
 
-✅ Scalable architecture for future expansion
+ Scalable architecture for future expansion
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 ### Backend Integration
 
@@ -194,7 +194,7 @@ The user receives:
 
 ---
 
-## 📈 Future Architecture
+##  Future Architecture
 
 ```text
 React Frontend
@@ -211,7 +211,7 @@ Authentication & User Management
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates:
 
@@ -226,7 +226,7 @@ This project demonstrates:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Harman Kaur**
 
